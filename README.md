@@ -1,3 +1,3 @@
 # Blog 2023
 
-Blog criado por Altamiro Silva
+Aula - Blog - udemy - Prof. Luis Otavio Miranda
